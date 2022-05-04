@@ -5,3 +5,6 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+
+General info
+Some text about it.

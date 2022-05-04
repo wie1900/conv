@@ -6,5 +6,5 @@
 * [Technologies](#technologies)
 * [Setup](#setup)
 
-#General info
+# General info
 Some text about it.

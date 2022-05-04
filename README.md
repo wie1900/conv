@@ -13,8 +13,8 @@ This is a simple converter providing conversion from a number to words, what is 
 Insert any number with length 1-30 digits plus 1-2 digits separated by 'dot' for tenths and hundredths (optionally), e.g. 20 or 20.99
 
 ## Architecture
-The conversion provides class NWConv:
-[/App/Custom/NWConv.php](https://github.com/wie1900/RepoName/conv/app/Custom/NWConv.php)
+The conversion provides class NWConv:  
+'[/App/Custom/NWConv.php](https://github.com/wie1900/conv/app/Custom/NWConv.php)'
 
 
 ## Tests

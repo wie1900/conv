@@ -23,7 +23,6 @@ class ConvController extends Controller
             'number.regex'=>'Insert 1 to 30-digit number, with 2 decimals optionally (e.g. 25 or 25.34)',
         ]);
 
-        // $words = (new NumberWordsConverter($request->number))->getWords();
         $words = (new NWConv($request->number))->getWords();
         return view('converter.start',['number'=>$request->number,
                                         'words'=>$words

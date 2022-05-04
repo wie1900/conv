@@ -36,6 +36,6 @@ tests \ Feature \ [nvconvTest.php](https://github.com/wie1900/conv/blob/main/tes
 
 ## Working version
 
-Working version is available at:
+The working version is available at:
 
 [https://conv.deadygo.com](https://conv.deadygo.com)

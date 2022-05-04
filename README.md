@@ -13,7 +13,7 @@ This is a simple converter providing conversion from a number to words, what is 
 Insert any number with length 1-30 digits plus 1-2 digits separated by 'dot' for tenths and hundredths (optionally), e.g. 20 or 20.99 and click _Let convert_. To clear both input fields choose _Clear fields_.
 
 ## Architecture
-The conversion provides class NWConv:
+The conversion provides class _NWConv_:
 
 app \ Custom \ [NWConv.php](https://github.com/wie1900/conv/blob/main/app/Custom/NWConv.php)
 

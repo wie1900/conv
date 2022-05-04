@@ -17,6 +17,8 @@ The conversion provides class NWConv:
 
 app \ Custom \ [NWConv.php](https://github.com/wie1900/conv/blob/main/app/Custom/NWConv.php)
 
+The length of the input number can be extended by adding new values in the $names array and changing validating rule in the controller to the appropriate value (currently: 30).
+
 ## Tests
 
 ## What was used

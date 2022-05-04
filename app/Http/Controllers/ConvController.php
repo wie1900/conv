@@ -17,7 +17,6 @@ class ConvController extends Controller
     public function convert(Request $request)
     {
         $validated = $request->validate([
-            // 'number'=> 'regex:/^\d{1,8}$/'
             'number'=> 'regex:/^(\d{1,30})$|^\d{0,30}(\.\d{1,2})$/'
         ],
         [

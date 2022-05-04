@@ -14,9 +14,8 @@ Insert any number with length 1-30 digits plus 1-2 digits separated by 'dot' for
 
 ## Architecture
 The conversion provides class NWConv:
-`
+
 app \ Custom \ [NWConv.php](https://github.com/wie1900/conv/blob/main/app/Custom/NWConv.php)
-`
 
 The length of the input number can be extended by adding new values in the $names array and changing validating rule in the controller to the appropriate value (currently: 30).
 

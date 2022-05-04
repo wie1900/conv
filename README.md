@@ -15,18 +15,20 @@ Insert any number with length 1-30 digits plus 1-2 digits separated by 'dot' for
 ## Architecture
 The conversion provides class _NWConv_:
 
-app \ Custom \ [NWConv.php](https://github.com/wie1900/conv/blob/main/app/Custom/NWConv.php)
-
 app \ Custom \ [NWConv.php](/app/Custom/NWConv.php)
 
 The length of the input number can be extended by adding new values in the _$names_ array and changing validating rule in the controller to the appropriate value (currently: 30):
 
 app \ Http \ Controllers \ [ConvController.php](https://github.com/wie1900/conv/blob/main/app/Http/Controllers/ConvController.php)
 
+app \ Http \ Controllers \ [ConvController.php](/app/Http/Controllers/ConvController.php)
+
 ## Tests
 The application has been tested using PHPUnit tests:
 
 tests \ Feature \ [nvconvTest.php](https://github.com/wie1900/conv/blob/main/tests/Feature/nvconvTest.php)
+
+tests \ Feature \ [nvconvTest.php](/tests/Feature/nvconvTest.php)
 
 ## What was used
 

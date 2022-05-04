@@ -2,9 +2,9 @@
  Number To Words Converter
 
 ## Table of contents
-_ [General info](#general-info)
-_ [Technologies](#technologies)
-_ [Setup](#setup)
+1. [General info](#general-info)
+2. [Technologies](#technologies)
+3. [Setup](#setup)
 
 d  
 d  

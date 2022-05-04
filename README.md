@@ -22,7 +22,7 @@ The length of the input number can be extended by adding new values in the _$nam
 ## Tests
 The application has been tested using PHPUnit tests:
 
-tests \ Feature \ [nvconvTest.php](https://github.com/wie1900/conv/blob/main/test/Feature/nvconvTest.php)
+tests \ Feature \ [nvconvTest.php](https://github.com/wie1900/conv/blob/main/tests/Feature/nvconvTest.php)
 
 ## What was used
 

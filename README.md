@@ -4,7 +4,7 @@
 
 ## Number to Words Converter
 
-This is a simple converter providing conversion from number to words, what is sometimes required for invoices, agreements, contracts etc. It currently supports numbers from 1 to 30 digits plus 1 to 2 decimal digits (optionally). In result it covers the range from one to Nonillion, what besides can be extended further.
+This is a simple converter providing conversion from a number to words, what is sometimes required for invoices, agreements, contracts etc. It currently supports numbers from 1 to 30 digits plus 1 to 2 decimal digits (optionally). In result it covers the range from one to Nonillion, what besides can be extended further.
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).

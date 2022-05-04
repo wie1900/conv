@@ -4,7 +4,7 @@
 
 # Number to Words Converter
 
-This is a simple converter providing conversion from a number to words, what is sometimes required for invoices, contracts etc. It currently supports numbers from one to Nonillion and two digits after separation point (optionally).
+This is a simple converter providing conversion from a number to words, what is sometimes required for invoices, contracts etc. It currently supports numbers from one to Nonillion plus two digits after separation point (optionally).
 
 ## Screenshot
 ![ntwc](https://user-images.githubusercontent.com/89514476/166660418-fbe22070-9d49-4fdd-a0d6-c33e49323049.gif)

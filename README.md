@@ -6,7 +6,9 @@
 
 This is a simple converter providing conversion from a number to words, what is sometimes required for invoices, agreements, contracts etc. It currently supports numbers from 1 to 30 digits plus one to two decimal digits (optionally). In result it covers the range from one to Nonillion, but this can be easily extended.
 
-## How to use it
+## Screenshot
+
+
 
 Input Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 

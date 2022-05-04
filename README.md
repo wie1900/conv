@@ -26,5 +26,14 @@ tests \ Feature \ [nvconvTest.php](https://github.com/wie1900/conv/blob/main/tes
 
 ## What was used
 
+- Laravel
+- PHP
+- Bootstrap
+- Javascript
+- PHPUnit
+
 ## Working version
 
+Working version is available at:
+
+[https://conv.deadygo.com](https://conv.deadygo.com)

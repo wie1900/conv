@@ -18,7 +18,7 @@
     <body>
         <div class="container-fluid">
             <div class="row justify-content-center">
-                <div class="col-5 mt-5 pt-5 pb-3 text-center border">
+                <div class="col-4 mt-5 pt-5 pb-3 text-center border">
                     @yield('convcontent')
                 </div>
             </div>

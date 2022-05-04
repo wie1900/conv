@@ -26,7 +26,7 @@
 
             <div class="row mt-3 mb-2">
                 <div class="col-12 col-md-2 fw-bold text-end">Words: </div>
-                <div class="col-12 col-md-8">
+                <div class="col-12 col-md-9">
                     <div class="row">
                         <div class="col-12 col-md-12">
                             <textarea class="form-control field" rows="5" cols="5">@isset($number){{ $words }}@endisset</textarea>
@@ -36,7 +36,7 @@
             </div>
 
             <div class="row mt-3 mb-2">
-                <div class="col-12 col-md-10">
+                <div class="col-12 col-md-11">
                     <div class="row">
                         <div class="col-12 col-md-12 d-flex justify-content-end">
                             <button type="submit" class="btn btn-primary btn-sm text-light me-1">Let Convert!</button>

@@ -29,9 +29,9 @@ tests \ Feature \ [nvconvTest.php](/tests/Feature/nvconvTest.php)
 
 ## What was used
 
-- Laravel
-- PHP
-- Bootstrap
+- Laravel 9
+- PHP 8
+- Bootstrap 5
 - Javascript
 - PHPUnit
 
